@@ -1,0 +1,2 @@
+# Automation_of_College_Academic_Activities_including_students_feedback
+Automation_of_College_Academic_Activities_including_students_feedback is my Academic project at JNTUCEA
